@@ -8,6 +8,14 @@ namespace src
 {
     class Program
     {
+        struct Subject
+        {
+            public string name;
+            public string SurnameTeacher;
+            public int term;
+
+           
+        }
         static void Main(string[] args)
         {
         }
